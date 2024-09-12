@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.2.4",
     "@prisma/client": "^5.19.1",
+    "@clerk/nextjs": "^5.5.2",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
